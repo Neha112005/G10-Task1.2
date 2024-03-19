@@ -3,4 +3,8 @@ hello
 i,m neha
 engineering student
 cse
+<<<<<<< HEAD
 what's up
+=======
+how are you
+>>>>>>> 9c4d48b999ebfedebb731062b92ad9bbf9f0adf0
